@@ -33,9 +33,9 @@ ERROR: Could not find a version that satisfies the requirement tensorflow==2.x.x
 ## How to Run Locally
 
 1. Clone the repo:
- git clone 
- cd dogsVsCats
+   git clone https://github.com/Sreekar-Reddy-D/dogsVsCats.git
+   cd dogsVsCats
 2. Install dependencies:
-pip install -r requirements.txt
+   pip install -r requirements.txt
 3. Run the app:
-streamlit run app.py
+   streamlit run app.py
